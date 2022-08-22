@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/activity_add_general.xml" value="0.264" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/activity_add_psychiatrist.xml" value="0.264" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/activity_add_surgeon.xml" value="0.264" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/activity_admin_choose.xml" value="0.21666666666666667" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/activity_admin_login.xml" value="0.264" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/activity_admin_menu.xml" value="0.264" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/activity_admin_menu_main.xml" value="0.264" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/activity_admin_menu_view.xml" value="0.21666666666666667" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/activity_admin_view.xml" value="0.15462962962962962" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/activity_ageneral_page.xml" value="0.23541666666666666" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/activity_apsychiatrist_page.xml" value="0.22135416666666666" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/activity_asurgeon_page.xml" value="0.22135416666666666" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/activity_docrec.xml" value="0.11302083333333333" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/activity_general_page.xml" value="0.2" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/activity_loginactivity.xml" value="0.2" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/activity_my_adapter1.xml" value="0.12708333333333333" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/activity_patient_menu.xml" value="0.176" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/activity_psychiatrist_page.xml" value="0.4" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/activity_send_mail.xml" value="0.4" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/activity_signupactivity.xml" value="0.2" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/activity_surgeon_page.xml" value="0.4" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/activity_user1.xml" value="0.2" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/activity_user2.xml" value="0.1" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/ageneraldata.xml" value="0.23541666666666666" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/apsychiatristdata.xml" value="0.23541666666666666" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/asurgeondata.xml" value="0.23541666666666666" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/content_add_surgeon.xml" value="0.136" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/docdata.xml" value="0.536" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/fragment_first.xml" value="0.21666666666666667" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/fragment_first2.xml" value="0.21666666666666667" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/fragment_second.xml" value="0.21666666666666667" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/fragment_second2.xml" value="0.21666666666666667" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/generaldata.xml" value="0.264" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/psychiatristdata.xml" value="0.264" />
+        <entry key="..\:/Softwares/DoctorConsultancy/app/src/main/res/layout/surgeondata.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

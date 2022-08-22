@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035612290213",
+    "project_id": "doctorconsultancy-bee74",
+    "storage_bucket": "doctorconsultancy-bee74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035612290213:android:bb497f256dc25a996b214c",
+        "android_client_info": {
+          "package_name": "com.example.doctorconsultancy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035612290213-joed1obcnn37rmjob93d35tf40u7tdhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUU1KTynZ8qCWGhvJZWXGqdrDvBSvVTQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035612290213-joed1obcnn37rmjob93d35tf40u7tdhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.doctorconsultancy">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.Manifest.permission.RECORD_AUDIO" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.DoctorConsultancy">
+        <activity
+            android:name=".AdminView"
+            android:exported="false" />
+        <activity
+            android:name=".AdminMenuMain"
+            android:exported="false" />
+        <activity
+            android:name=".ASurgeonPage"
+            android:exported="false" />
+        <activity
+            android:name=".APsychiatristPage"
+            android:exported="false" />
+        <activity
+            android:name=".AGeneralPage"
+            android:exported="false" />
+        <activity
+            android:name=".SendMail"
+            android:exported="false"
+            android:icon="@drawable/w1"
+            android:label="Send Mail" />
+        <activity
+            android:name=".AdminMenu"
+            android:exported="false"
+            android:icon="@drawable/w1"
+            android:label="ADMIN MENU" />
+        <activity
+            android:name=".AddGeneral"
+            android:exported="false"
+            android:icon="@drawable/w1"
+            android:label="General" />
+        <activity
+            android:name=".AddPsychiatrist"
+            android:exported="false"
+            android:icon="@drawable/w1"
+            android:label="Psychiatrist" />
+        <activity
+            android:name=".AddSurgeon"
+            android:exported="false"
+            android:icon="@drawable/w1"
+            android:label="Surgeon" />
+        <activity
+            android:name=".AdminLogin"
+            android:exported="false"
+            android:icon="@drawable/w1"
+            android:label="ADMIN LOGIN" />
+        <activity
+            android:name=".SurgeonPage"
+            android:exported="false"
+            android:icon="@drawable/w1"
+            android:label="Surgeon" />
+        <activity
+            android:name=".GeneralPage"
+            android:exported="false"
+            android:icon="@drawable/w1"
+            android:label="General"
+            android:parentActivityName=".PatientMenu" />
+        <activity
+            android:name=".PsychiatristPage"
+            android:exported="false"
+            android:icon="@drawable/w1"
+            android:label="Psychiatrist" />
+        <activity
+            android:name=".PatientMenu"
+            android:exported="false"
+            android:icon="@drawable/w1"
+            android:label="WELCOME" />
+        <activity
+            android:name=".Loginactivity"
+            android:exported="true"
+            android:icon="@drawable/w1"
+            android:label="LOGIN"
+            android:parentActivityName=".Signupactivity" />
+        <activity
+            android:name=".Signupactivity"
+            android:exported="true"
+            android:icon="@drawable/w1"
+            android:label="SIGNUP"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:icon="@drawable/w1"
+            android:label="Doctor Consultancy">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
